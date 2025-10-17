@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-msq+f2da&u$r3xc)#fothkmfg9mvnwti8+tz64vvu0v&bi_r(d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['web-production-df2c.up.railway.app', '127.0.0.1', 'localhost']
 
 
 
